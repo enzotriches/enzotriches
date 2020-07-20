@@ -8,3 +8,4 @@
   - send me a email: enzotriches21@gmail.com
   - [Linkedin](https://www.linkedin.com/in/enzo-trich%C3%AAs-88923014b/)
 - ⚡ Fun fact: i like to paint :art: 
+... also a :books: CS student   
