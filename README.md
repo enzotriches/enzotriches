@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Golang and React Native for fun
 - 📫 How to reach me: 
   - [Twitter](https://twitter.com/TrichesEnzo)
-  - [Email](enzotriches21@gmail.com)
+  - [Email](mailto:enzotriches21@gmail.com)
   - [Linkedin](https://www.linkedin.com/in/enzo-trich%C3%AAs-88923014b/)
 - ⚡ Fun fact: i like to paint :art: 
 ... also a :books: CS student   
