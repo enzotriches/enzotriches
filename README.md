@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working remotely as a **Full Stack Developer**
   - Mostly using ***MERN*** and also ***PHP7***
-- 🌱 I’m currently learning Golang and React Native for fun
+- 🌱 I’m currently learning Golang and React Native 
 - 📫 How to reach me: 
   - [Twitter](https://twitter.com/TrichesEnzo)
   - [Email](mailto:enzotriches21@gmail.com)
