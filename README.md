@@ -1,7 +1,7 @@
 ### Hello, { name } 👋
 
 - 🔭 I’m currently working remotely as a **Software Developer**
-  - Mostly using ***Javacript | React ***
+  - Mostly using **Javacript/React**
 - 🌱 I’m currently learning Golang  
 - 📫 How to reach me: 
   - [Twitter](https://twitter.com/TrichesEnzo)
