@@ -1,6 +1,6 @@
 ### Hello, { name } 👋
 
-- 🔭 I’m currently working remotely as a **Software Developer**
+- 🔭 I’m currently working remotely as a **Software Engineer**
   - Mostly using **Node/React and other's Javascript stuff**
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: 
